@@ -1,6 +1,4 @@
 First new line
 Second new line
 
-I created this in the working folder for my second local repo.
-
 My first change.
