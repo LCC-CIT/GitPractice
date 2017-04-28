@@ -1,3 +1,4 @@
-
+First new line
+Second new line
 
 My first change.
